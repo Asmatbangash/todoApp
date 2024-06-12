@@ -1,0 +1,16 @@
+
+
+.Todo{
+    width: 50%;
+}
+.textInput{
+    padding: 4px 1px;
+    font-weight: bold;
+}
+.dateInput{
+    padding: 4px 1px;
+    font-weight: bold;
+}
+.addBtn{
+    width: 109px;
+}
